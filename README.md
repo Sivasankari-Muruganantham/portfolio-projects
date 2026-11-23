@@ -5,7 +5,7 @@
 🌐 **Portfolio website:** https://sivasankari-muruganantham.github.io
 ✉️ smuruganantham01@qub.ac.uk · [LinkedIn](https://www.linkedin.com/in/sivasankari-m-5a6601187/)
 
-This repository contains my business analysis and analytics project work — 13 projects covering the full lifecycle from business problem framing through data analysis and modelling to stakeholder recommendations.
+This repository contains my business analysis and analytics project work — 14 projects covering the full lifecycle from business problem framing through data analysis and modelling to stakeholder recommendations.
 
 ## 📁 Business Analysis
 
