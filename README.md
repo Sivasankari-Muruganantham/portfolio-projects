@@ -29,6 +29,6 @@ This repository contains my business analysis and analytics project work — 13 
 | 10 | [Hospital Ophthalmology Scheduling (Group)](analytics/10-optimisation-hospital-scheduling-group) | Excel optimisation, prescriptive analytics |
 | 11 | [Airline Reviews — Text & Predictive Analytics](analytics/11-data-mining-airline-reviews-nlp) | CRISP-DM, NLP, VADER/TextBlob sentiment |
 | 12 | [Coffee Brand Segmentation & Positioning](analytics/12-marketing-coffee-segmentation-conjoint) | Clustering, conjoint analysis, perceptual mapping |
-
+| 13 | [Churn Prediction in Retail Banking — SHAP Explainability (MSc Dissertation)](analytics/13-dissertation-bank-churn-shap) | R, XGBoost, random forest, SVM, fold-wise SMOTE, SHAP, fairness audit |
 ---
 *All work is my own, completed as part of my MSc Business Analytics programme and BCS Business Analysis training.*
